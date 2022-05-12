@@ -190,6 +190,7 @@ iv) Using Median Filter
 
 ### 2. Sharpening Filters
 
+
 i) Using Laplacian Kernal
 
 ![output](./a5.png)
